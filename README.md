@@ -1,2 +1,2 @@
-# qrcodechallenge.github.io
+# QR code challenge
  QR code challenge made by frontend mentor
